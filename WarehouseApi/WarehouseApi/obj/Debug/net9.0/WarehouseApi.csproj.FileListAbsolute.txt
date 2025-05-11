@@ -1,0 +1,5 @@
+C:\Users\monli\RiderProjects\WarehouseApi\WarehouseApi\obj\Debug\net9.0\WarehouseApi.csproj.AssemblyReference.cache
+C:\Users\monli\RiderProjects\WarehouseApi\WarehouseApi\obj\Debug\net9.0\WarehouseApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monli\RiderProjects\WarehouseApi\WarehouseApi\obj\Debug\net9.0\WarehouseApi.AssemblyInfoInputs.cache
+C:\Users\monli\RiderProjects\WarehouseApi\WarehouseApi\obj\Debug\net9.0\WarehouseApi.AssemblyInfo.cs
+C:\Users\monli\RiderProjects\WarehouseApi\WarehouseApi\obj\Debug\net9.0\WarehouseApi.csproj.CoreCompileInputs.cache
